@@ -1,0 +1,113 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "Sam finds a book labelled 37. What number comes before 37?",
+      "options": [
+        "37",
+        "38",
+        "36",
+        "39"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Sam finds a book labelled 52. What number comes after 52?",
+      "options": [
+        "53",
+        "52",
+        "55",
+        "54"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q3",
+      "question": "Sam spots the book with number 100. What number comes before 100?",
+      "options": [
+        "97",
+        "98",
+        "100",
+        "99"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q4",
+      "question": "There’s a book labelled 245. What number comes before 245?",
+      "options": [
+        "246",
+        "244",
+        "243",
+        "250"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q5",
+      "question": "A book with 387 needs to be shelved. What number comes after 387?",
+      "options": [
+        "386",
+        "388",
+        "389",
+        "390"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q6",
+      "question": "Sam has the book 120 but is missing the next one. What is the successor of 120?",
+      "options": [
+        "121",
+        "119",
+        "125",
+        "115"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q7",
+      "question": "Sam is arranging books near 300. What is the predecessor of 300?",
+      "options": [
+        "301",
+        "298",
+        "299",
+        "305"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q8",
+      "question": "The book labelled 512 is missing its successor. What is the successor of 512?",
+      "options": [
+        "511",
+        "514",
+        "510",
+        "513"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q9",
+      "question": "Sam places the book 909. What is the successor of 909?",
+      "options": [
+        "908",
+        "911",
+        "910",
+        "905"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q10",
+      "question": "Sam finds a book labelled 835. What is the predecessor of 835?",
+      "options": [
+        "833",
+        "834",
+        "836",
+        "840"
+      ],
+      "correct": 1
+    }
+  ]
+  
